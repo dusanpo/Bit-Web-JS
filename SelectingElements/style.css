@@ -1,0 +1,11 @@
+.first{
+    background: chartreuse;
+}
+
+.second{
+    background: cornflowerblue;
+}
+.third{
+    background:red;
+    text-transform: uppercase;
+}
