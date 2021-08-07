@@ -1,0 +1,14 @@
+{
+  "name": "eastereggs",
+  "version": "1.0.0",
+  "description": "easterEggs npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bit student",
+  "license": "ISC",
+  "dependencies": {
+    "easter-egg-collection": "^1.4.56"
+  }
+}
